@@ -1,6 +1,6 @@
 {
   "name": "hubot-open-meteo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Current weather and US weather alerts from Open-Meteo and the National Weather Service. No API key needed.",
   "main": "index.js",
   "files": [
